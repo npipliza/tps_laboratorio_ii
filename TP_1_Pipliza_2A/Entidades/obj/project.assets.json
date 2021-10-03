@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\npipliza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\npipliza\\AppData\\Roaming\\NuGet\\NuGet.Config",

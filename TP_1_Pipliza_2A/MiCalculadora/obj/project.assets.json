@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\MiCalculadora\\MiCalculadora.csproj",
+      "projectUniqueName": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\MiCalculadora\\MiCalculadora.csproj",
       "projectName": "MiCalculadora",
-      "projectPath": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\MiCalculadora\\MiCalculadora.csproj",
+      "projectPath": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\MiCalculadora\\MiCalculadora.csproj",
       "packagesPath": "C:\\Users\\npipliza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\MiCalculadora\\obj\\",
+      "outputPath": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\MiCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\npipliza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\npipliza\\source\\repos\\Pipliza.Nadia\\Entidades\\Entidades.csproj"
+            "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\npipliza\\Desktop\\tps_laboratorio_ii-main\\TPS_prog_y_labo_2\\TP_1_Pipliza_2A\\Entidades\\Entidades.csproj"
             }
           }
         }
