@@ -1,0 +1,11 @@
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\bin\Debug\net5.0\Serializacion.deps.json
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\bin\Debug\net5.0\Serializacion.dll
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\bin\Debug\net5.0\ref\Serializacion.dll
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\bin\Debug\net5.0\Serializacion.pdb
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfoInputs.cache
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfo.cs
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.dll
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\ref\Serializacion.dll
+C:\Users\npipliza\source\repos\Pipliza.Nadia.2A.TPFinal.a\Serializacion\obj\Debug\net5.0\Serializacion.pdb
