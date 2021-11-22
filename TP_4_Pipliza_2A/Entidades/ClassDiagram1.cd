@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Clientes">
+    <Position X="0.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAAQAAAAFAAAAAA=</HashCode>
+      <FileName>DatosCliente\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Inventario">
+    <Position X="3.5" Y="4.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Inventario.TipoPapel">
+        <TypeIdentifier>
+          <NewMemberFileName>DatosCliente\Inventario.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAABACAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DatosCliente\Inventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DepositoP">
+    <Position X="0.5" Y="0.5" Width="6" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.DepositoP.Formato">
+        <TypeIdentifier>
+          <NewMemberFileName>Mercaderia\DepositoP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Mercaderia\DepositoP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Informes">
+    <Position X="11.25" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mercaderia\Informes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Mercaderia">
+    <Position X="6.75" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAABAAAAAQAAAEAAAABAAAAAUAAAABA=</HashCode>
+      <FileName>Mercaderia\Mercaderia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Controller">
+    <Position X="7.25" Y="4.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>CQIAABAAwAAAAEBAAAAAEEAAACCABEAAQAQAAOAAIAg=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Stock">
+    <Position X="12" Y="4.75" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAEAAAAQAAAAAAACSACAAAEAABAAAAAAyA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
