@@ -1,0 +1,45 @@
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\Entidades.deps.json
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\Entidades.pdb
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.pdb
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfo.cs
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CopyComplete
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal\Entidades\obj\Debug\net5.0-windows7.0\Entidades.pdb
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\Entidades.deps.json
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\Entidades.pdb
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.pdb
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfo.cs
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CopyComplete
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\Pipliza.Nadia.2A.TPFinal - con TP4\Entidades\obj\Debug\net5.0-windows7.0\Entidades.pdb
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Entidades.deps.json
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Entidades.pdb
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.dll
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Serializacion.pdb
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.AssemblyInfo.cs
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.csproj.CopyComplete
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.dll
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\ref\Entidades.dll
+C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\obj\Debug\net5.0-windows7.0\Entidades.pdb

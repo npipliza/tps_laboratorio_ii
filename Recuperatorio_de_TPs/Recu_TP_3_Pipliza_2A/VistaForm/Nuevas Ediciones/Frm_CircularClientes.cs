@@ -33,8 +33,8 @@ namespace VistaConsola
         private string cargar_RchTxtBox_Info()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(string.Format("Se envia circular de nuevas ediciones con los datos que deberían actualizar para {0}", treeView1.SelectedNode.Text));
-            sb.AppendLine(string.Format("En caso de requerir una cotización, enviar detalles."));
+            sb.AppendLine(string.Format("Según nuestra base de datos deberían actualizar para {0}", treeView1.SelectedNode.Text));
+            sb.AppendLine(string.Format("Si tiene consultas, por favor contactenos."));
 
             return sb.ToString();
         }

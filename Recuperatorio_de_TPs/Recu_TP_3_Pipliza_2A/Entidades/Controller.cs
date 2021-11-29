@@ -393,6 +393,7 @@ namespace Entidades
             DosDepo_ListaNuevasEdiciones.Add(new DepositoP(1, DepositoP.Formato.Bobina, "Cartulina", 250, "USD210", "145078", 1));
 
             serializacionDep.Guardar(rutaNuevasEdiciones_DosDepo, DosDepo_ListaNuevasEdiciones);
+
         }
     }
 }

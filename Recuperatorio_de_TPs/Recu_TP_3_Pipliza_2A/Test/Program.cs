@@ -27,8 +27,6 @@ namespace Test
             List<DepositoP> depositoConsola    = new List<DepositoP>();
 
             Stock stocksito = new Stock();
-            Inventario.TipoPapel mayorStock = new Inventario.TipoPapel();
-            DepositoP depo = new DepositoP();
 
             string rutaDep = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\listaDepositosStock.xml";
             string rutaInformes = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\listaInformesStock.xml";
@@ -38,6 +36,7 @@ namespace Test
 
             /// Ya está en la lista, no debería poder agregarse de nuevo
             DepositoP papelDuplicado = new DepositoP(2, DepositoP.Formato.Bobina, "Estucado Brillante", 120, "USD215", "140319", 1520);
+            DepositoP.Formato mayorFormato = new DepositoP.Formato();
 
             Controller.Guardar();
             Controller.AgregarDatos_Serializar_NuevasEdiciones();
@@ -102,14 +101,14 @@ namespace Test
             Console.Write("--- PRESIONE UNA TECLA PARA CONTINUAR ---                                    ");
             Console.ReadKey();
 
+            //// MOSTRAR EL FORMATO PAPEL MAS STOCKEADO
+            Stock.MayorFormatoPapelesEnStock(mayorFormato);
+
             Console.WriteLine("                                                                         ");
-            Console.WriteLine("************************* PAPEL CON MAYOR STOCK *************************");
+            Console.WriteLine("********************* FORMATO PAPEL CON MAYOR STOCK *********************");
             Console.WriteLine("                                                                         ");
 
-            Console.WriteLine("El papel {0}, es el que màs stock tiene.", mayorStock);
-
-            //// MOSTRAR EL PAPEL MAS STOCKEADO
-            Stock.RecuentoDePapelesEnStock(depo, mayorStock);
+            Console.WriteLine("El FORMATO de papel {0}, es el que tiene mayor stock.", mayorFormato);
 
         }
     }

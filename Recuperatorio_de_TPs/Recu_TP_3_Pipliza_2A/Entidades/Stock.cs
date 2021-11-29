@@ -202,6 +202,28 @@ namespace Entidades
             }
         }
 
+        public static string MayorFormatoPapelesEnStock(DepositoP.Formato formato)
+        {
+            string mayorFormato = "";
+            int contadorB  = 0;
+            int contadorH  = 0;
+
+            for (int i = 0; i < 10; i++)
+            {
+                switch (formato)
+                {
+                    case DepositoP.Formato.Bobina:
+                        contadorB++;
+                        break;
+
+                    case DepositoP.Formato.Hojas:
+                        contadorH++;
+                        break;
+                }
+            }
+             return mayorFormato;
+        }
+
         public static List<Inventario> RevisarIgualdadDepositoSeleccionado(DepositoP depo, List<Inventario> listaInventarios)
         {
             foreach (Clientes clientesito in Stock.Clientes)
@@ -220,100 +242,6 @@ namespace Entidades
                 }
             }
             return listaInventarios;
-        }
-
-
-        public static string RecuentoDePapelesEnStock(DepositoP depo, Inventario.TipoPapel tipo)
-        {
-            int contadorEB = 0;
-            int contadorEM = 0;
-            int contadorI = 0;
-            int contadorPP = 0;
-            int contadorOA = 0;
-            int contadorC = 0;
-            string mayorStock;
-            foreach (Clientes clientesito in Stock.Clientes)
-            {
-                foreach (Inventario inv in clientesito.inventario)
-                {
-                    foreach (DepositoP deposito in inv.deposito)
-                    {
-
-                        switch (tipo)
-                        {
-                            case Inventario.TipoPapel.EstucadoBrillante:
-                                if (deposito.TipoPapel == "Estucado Brillante")
-                                {
-                                    contadorEB++;
-                                }
-                                break;
-
-                            case Inventario.TipoPapel.EstucadoMate:
-                                if (deposito.TipoPapel == "Estucado Mate")
-                                {
-                                    contadorEM++;
-                                }
-                                break;
-
-                            case Inventario.TipoPapel.Ilustracion:
-                                if (depo.TipoPapel == "Ilustracion")
-                                {
-                                    contadorI++;
-                                }
-                                break;
-
-                            case Inventario.TipoPapel.PapelPrensa:
-                                if (depo.TipoPapel == "Papel Prensa")
-                                {
-                                    contadorPP++;
-                                }
-                                break;
-
-                            case Inventario.TipoPapel.ObraAHuesado:
-                                if (depo.TipoPapel == "Obra Ahuesado")
-                                {
-                                    contadorOA++;
-                                }
-                                break;
-
-                            case Inventario.TipoPapel.Cartulina:
-                                if (depo.TipoPapel == "Cartulina")
-                                {
-                                    contadorC++;
-                                }
-                                break;
-
-                        }
-                    }
-                }
-            }
-
-            if (contadorEB > contadorEM && contadorEB > contadorI && contadorEB > contadorPP && contadorEB > contadorOA && contadorEB > contadorC)
-            {
-                mayorStock = "Estucado Brillante";
-            }
-            else if (contadorEM > contadorI && contadorEM > contadorPP && contadorEM > contadorOA && contadorEM > contadorC)
-            {
-                mayorStock = "Estucado Mate";
-            }
-            else if (contadorI > contadorPP && contadorI > contadorOA && contadorI > contadorC)
-            {
-                mayorStock = "Ilustración";
-            }
-            else if (contadorPP > contadorOA && contadorPP > contadorC)
-            {
-                mayorStock = "Papel Prensa";
-            }
-            else if (contadorOA > contadorC)
-            {
-                mayorStock = "Obra Ahuesado";
-            }
-            else
-            {
-                mayorStock = "Cartulina";
-            }
-            return mayorStock;
-
         }
     }
 }

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Entidades</id>
+    <version>1.0.0</version>
+    <authors>Entidades</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Serializacion" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\npipliza2\Desktop\tp4 prueba\Entidades\bin\Debug\net5.0-windows7.0\Entidades.dll" target="lib\net5.0-windows7.0\Entidades.dll" />
+  </files>
+</package>

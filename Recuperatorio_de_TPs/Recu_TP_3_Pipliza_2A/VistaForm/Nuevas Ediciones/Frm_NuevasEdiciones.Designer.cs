@@ -231,6 +231,7 @@ namespace VistaForm
             this.picBxHeader_nuevasEdiciones.Size = new System.Drawing.Size(933, 202);
             this.picBxHeader_nuevasEdiciones.TabIndex = 6;
             this.picBxHeader_nuevasEdiciones.TabStop = false;
+            this.picBxHeader_nuevasEdiciones.Click += new System.EventHandler(this.picBxHeader_nuevasEdiciones_Click);
             // 
             // Frm_NuevasEdiciones
             // 

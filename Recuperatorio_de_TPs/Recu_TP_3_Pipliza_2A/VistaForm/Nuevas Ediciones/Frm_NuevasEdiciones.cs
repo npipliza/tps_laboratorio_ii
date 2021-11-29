@@ -145,5 +145,9 @@ namespace VistaForm
             }
         }
 
+        private void picBxHeader_nuevasEdiciones_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
